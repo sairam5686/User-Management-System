@@ -4,6 +4,8 @@
 
 The **User Management System** is a web application built with **HTML**, **CSS**, **JavaScript**, and **Node.js**. It provides a platform for managing users, enabling CRUD (Create, Read, Update, Delete) operations with a clean and user-friendly interface. The backend uses **Express.js** for routing and **MongoDB** as the database.
 
+![Image of the Project](User_management_system.png)
+
 ---
 
 ## ✨ Features
